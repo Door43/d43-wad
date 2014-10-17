@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wad:home|Door43 (wad)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wad|d43-wad repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wad/archive/master.zip|d43-wad.zip]]
+
+**Recent Changes**
+{{changes>ns = wad}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wad|Ethnologue data]]
+
